@@ -1,0 +1,128 @@
+html {
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+#corpscp {
+    border: 1px solid lightgray;
+    width: 50%;
+    height: 600px;
+    max-height: 600px;
+    margin-left: 25%;
+    margin-top: 200px;
+    box-shadow: 0 0 20px -5px #000000
+}
+
+#conteneurtexte {
+    width: 45%;
+    height: 400px;
+    margin-left: 30px;
+    margin-top: 100px;
+    border: 1px solid white;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 30px;
+    margin-top: 70px;
+    font-size: 20px;
+}
+
+#barrecentral {
+    width: 0;
+    height: 540px;
+    border: 1px solid black;
+    position: relative;
+    left: 50%;
+    bottom: 78%;
+}
+
+#cadretimbre {
+    width: 85px;
+    height: 125px;
+    border: 1px solid black;
+    position: relative;
+    left: 89%;
+    bottom: 170%;
+}
+
+#ligne1 {
+    height: 0;
+    width: 40%;
+    border: 1px solid black;
+    position: relative;
+    left: 55%;
+    bottom: 145%;
+}
+
+#ligne2 {
+    height: 0;
+    width: 40%;
+    border: 1px solid black;
+    position: relative;
+    left: 55%;
+    bottom: 135%;
+}
+
+#ligne3 {
+    height: 0;
+    width: 40%;
+    border: 1px solid black;
+    position: relative;
+    left: 55%;
+    bottom: 125%;
+}
+
+#cadre1 {
+    width: 20px;
+    height: 30px;
+    border: 1px solid black;
+    position: relative;
+    left: 55%;
+    bottom: 120%;
+}
+
+#cadre2 {
+    width: 20px;
+    height: 30px;
+    border: 1px solid black;
+    position: relative;
+    left: 58%;
+    bottom: 125.4%;
+}
+
+#cadre3 {
+    width: 20px;
+    height: 30px;
+    border: 1px solid black;
+    position: relative;
+    left: 61%;
+    bottom: 130.7%;
+}
+
+#cadre4 {
+    width: 20px;
+    height: 30px;
+    border: 1px solid black;
+    position: relative;
+    left: 64%;
+    bottom: 136%;
+}
+
+#cadre5 {
+    width: 20px;
+    height: 30px;
+    border: 1px solid black;
+    position: relative;
+    left: 67%;
+    bottom: 141.3%;
+}
+
+#lignecadre {
+    height: 0;
+    width: 22%;
+    border: 1px solid black;
+    position: relative;
+    left: 73%;
+    bottom: 141.6%;
+}
